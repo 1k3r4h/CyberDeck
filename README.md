@@ -7,7 +7,7 @@ x1 10000 mAH external Battery
 x1 Non-touchable screen 7"  
 x1 Rii Keyboard  
 x1 PLA printed Case  
-x1 64Gb SD Card with Kali Linux installed
+x1 64Gb SD Card with Kali Linux installed  
 x1 Airplane like switch
 
 ## Links
