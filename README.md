@@ -9,6 +9,7 @@ x1 Rii Keyboard
 x1 PLA printed Case  
 x1 64Gb SD Card with Kali Linux installed  
 x1 Airplane like switch
+x1 Hub USB
 
 ## Links
 
